@@ -3,6 +3,8 @@
 
 Ok so this is the info I got over the course of a few months lol.
 
+Also, if you want to see my code, you have to switch to the "master" branch because git and other stuff and vscode idk idk.
+
 ## This is just a repository lol dont mind it or you will regret it lmao
 
 
