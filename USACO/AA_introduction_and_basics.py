@@ -11,3 +11,4 @@ Violet_Area = intersection(Red, Green)
 Eventually, we have the following:
 Visible_Area = intersection(BlackSheet1, WhiteSheet) + intersection(BlackSheet2, WhiteSheet) - intersection(BLackSheet1, BlackSheet2, WhiteSheet)
 """
+    
